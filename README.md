@@ -1,2 +1,0 @@
-# mercyoye
-Pre-intern prerequisite
